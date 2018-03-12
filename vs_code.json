@@ -12,7 +12,9 @@
     "workbench.colorCustomizations": {
         "foreground": "#BDBDBD",
         "list.activeSelectionForeground": "#0277BD"
-
     },
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true
 }
