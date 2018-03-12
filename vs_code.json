@@ -8,13 +8,11 @@
     ],
     "editor.wordWrap": 120,
     "window.zoomLevel": 0,
-    "jscs.enable": true,
     "workbench.colorTheme": "Ayu Mirage",
     "workbench.colorCustomizations": {
         "foreground": "#BDBDBD",
         "list.activeSelectionForeground": "#0277BD"
 
     },
-    "files.autoSave": "afterDelay",
-    "typescript.check.npmIsInstalled": false
+    "files.autoSave": "afterDelay"
 }
