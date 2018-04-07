@@ -1,22 +1,14 @@
 {
+    "workbench.colorTheme": "Ayu Mirage",
     "editor.fontSize": 14,
     "editor.tabSize": 4,
     "editor.fontFamily": "Roboto Mono",
     "editor.fontWeight": "300",
-    "editor.rulers": [
-        80
-    ],
-    "editor.wordWrap": 120,
+    "editor.rulers": [80],
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Ayu Mirage",
-    "workbench.colorCustomizations": {
-        "foreground": "#BDBDBD",
-        "list.activeSelectionForeground": "#0277BD"
-    },
     "files.autoSave": "afterDelay",
     "editor.formatOnSave": true,
     "prettier.tabWidth": 4,
     "prettier.singleQuote": true,
-    "prettier.arrowParens": "always",
     "explorer.openEditors.visible": 0
 }
